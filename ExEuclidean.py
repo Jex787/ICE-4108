@@ -1,3 +1,4 @@
+# Extended Euclidean ALgorithm
 def egcd(a, b):
     if b == 0:
         return a, 1, 0
